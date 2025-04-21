@@ -14,7 +14,7 @@ app.use(express.json());
 
 // ✅ Allowed frontend URLs
 const allowedOrigins = [
-  "https://interview-mate-kappa.vercel.app",
+  "https://interviewmate-mu.vercel.app/",
   "http://localhost:5182",
 ];
 
